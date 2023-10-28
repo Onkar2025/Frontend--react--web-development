@@ -1,0 +1,16 @@
+*{
+  padding: 3;
+  margin: 0;
+  box-sizing: border-box;
+  
+
+}
+
+a{
+  text-decoration: none;
+  counter-reset: rgb(97,97,97);
+  
+}
+.li{
+  list-style: none;
+}
